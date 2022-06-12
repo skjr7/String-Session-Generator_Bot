@@ -27,12 +27,12 @@ By @NotrealPranay
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton(" Give a Star ⭐", url="https://github.com/Pranay5463/String-Session-Generator_Bot")],
+        [InlineKeyboardButton(" Give a Star ⭐", url="https://github.com/skjr7/String-Session-Generator_Bot")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton(" Get Help ↗️", url="https://t.me/+9SetglBX6YY0OWRh")],
+        [InlineKeyboardButton("Owner", url="https://t.me/Suryaakumar)],
     ]
 
     # Help Message
@@ -53,11 +53,11 @@ By @NotrealPranay
 
 A telegram bot to generate pyrogram and telethon string session by @NotrealPranay
 
-Source Code : [Click Here](https://github.com/Pranay5463/String-Session-Generator_Bot)
+Source Code : [Click Here](https://github.com/skjr7/String-Session-Generator_Bot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @NotrealPranay
+Developer : @Suryaakumar
     """
